@@ -1,0 +1,8 @@
+Total number of vaccinations: 1278877
+Median number of vaccinations: 8605.00
+The week of 2022-03-27 saw the fewest vaccinations: 2025
+The week of 2022-06-12 saw the second fewest vaccinations: 2296
+The week of 2022-09-04 saw the third fewest vaccinations: 2350
+The week of 2021-06-27 saw the most vaccinations: 57000
+The week of 2021-07-04 saw the second most vaccinations: 56622
+The week of 2021-07-11 saw the third most vaccinations: 51694

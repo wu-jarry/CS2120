@@ -1,0 +1,7 @@
+apple
+banana
+pear
+peach
+pomegranate
+clementine
+cherry
